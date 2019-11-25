@@ -14,7 +14,7 @@ imgur.com/a/LbV16Hv
 
 In this task, I used code to create a loop that varied the duty cycle between 5% and 95 % (In increments of 5%). Above is the link for the video of the oscilloscope I captured. 
 
-loop-PWM.js
+[loop-PWM.js](https://github.com/Introduction-to-Computer-Engineering/final-project-assignment-8-week-13-RomanGAnker/blob/master/loop-PWM.js)
 
 # Writeup
 
@@ -72,5 +72,6 @@ A. Yes, there is; and it the difference is very apparent. It can be noticed in t
 
   C. Finally, this video displays the address of 0x1E (0x3C/0x3D) displayed on the oscilloscope. 
   
+ **I used the code located at [address-code.js](https://github.com/Introduction-to-Computer-Engineering/final-project-assignment-8-week-13-RomanGAnker/blob/master/address-code.js) and supplemented the addresses where needed in the final steps.**
 
                    
