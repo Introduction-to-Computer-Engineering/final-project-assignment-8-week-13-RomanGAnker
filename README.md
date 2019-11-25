@@ -1,5 +1,5 @@
 # **Oscilloscope Part 1**
-</br > imgur.com/a/eZuhNUJ This is a video of part 1 of the Oscilloscope assignment 8 project. It displays the final set up and results of connecting probes to CH1. 
+ imgur.com/a/eZuhNUJ This is a video of part 1 of the Oscilloscope assignment 8 project. It displays the final set up and results of connecting probes to CH1. 
 **PWM**
 imgur.com/a/5MZe7pv
 In this video, PWM pulses are being emitted and captured on the oscilloscope. I was able to emit the PWM waves through creating a line of code on the microbit. 
