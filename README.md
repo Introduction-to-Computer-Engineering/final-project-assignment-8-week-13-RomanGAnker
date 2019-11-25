@@ -1,19 +1,19 @@
-## **Oscilloscope Part 1**
+## Oscilloscope Part 1
 
  imgur.com/a/eZuhNUJ This is a video of part 1 of the Oscilloscope assignment 8 project. It displays the final set up and results of connecting probes to CH1. 
  
-#**PWM**
+# PWM
 
 imgur.com/a/5MZe7pv
 In this video, PWM pulses are being emitted and captured on the oscilloscope. I was able to emit the PWM waves through creating a line of code on the microbit. 
 
-#**Loop**
+# Loop
 
 imgur.com/a/LbV16Hv
 
 In this task, I used code to create a loop that varied the duty cycle between 5% and 95 % (In increments of 5%). Above is the link for the video of the oscilloscope I captured. 
 
-#**Writeup**
+# Writeup
 
 **1. What are the disadvantages of the other two serial communication channels, UART and SPI, and how does I2C improve on them?**
 
@@ -37,7 +37,7 @@ In this task, I used code to create a loop that varied the duty cycle between 5%
 
 
 
-**First Steps I2C**
+# First Steps I2C
 
 imgur.com/a/Az18LqW
 **What does the I2C write function do when there is nothing connected?**
