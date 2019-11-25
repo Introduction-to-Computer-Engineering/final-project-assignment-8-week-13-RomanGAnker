@@ -6,12 +6,15 @@
 
 imgur.com/a/5MZe7pv
 In this video, PWM pulses are being emitted and captured on the oscilloscope. I was able to emit the PWM waves through creating a line of code on the microbit. 
+servo-code.js
 
 # Loop
 
 imgur.com/a/LbV16Hv
 
 In this task, I used code to create a loop that varied the duty cycle between 5% and 95 % (In increments of 5%). Above is the link for the video of the oscilloscope I captured. 
+
+loop-PWM.js
 
 # Writeup
 
@@ -54,6 +57,9 @@ A. Yes, there is; and it the difference is very apparent. It can be noticed in t
 1. imgur.com/a/sUZLAcH
 
   A. In this video, I have the address 	0x1D (0x3A/0x3B) displayed on the oscilloscope while it is connected to the microbit. 
+  
+  **Code for Adresses**
+  I used the code located in (address-code.js) and replaced the necessary addresses for each of the final steps.
   
   
 2. imgur.com/a/CW55egC
