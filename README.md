@@ -6,7 +6,7 @@
 
 imgur.com/a/5MZe7pv
 In this video, PWM pulses are being emitted and captured on the oscilloscope. I was able to emit the PWM waves through creating a line of code on the microbit. 
-servo-code.js
+[servo-code.js](https://github.com/Introduction-to-Computer-Engineering/final-project-assignment-8-week-13-RomanGAnker/blob/master/servo-code.js)
 
 # Loop
 
