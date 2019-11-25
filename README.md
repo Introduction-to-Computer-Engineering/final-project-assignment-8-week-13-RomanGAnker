@@ -1,8 +1,8 @@
-**Oscilloscope Part 1**
-</br > imgur.com/a/eZuhNUJ This is a video of part 1 of the Oscilloscope assignment 8 project. It displays the final set up and results of connecting probes to CH1. </br >
+# **Oscilloscope Part 1**
+</br > imgur.com/a/eZuhNUJ This is a video of part 1 of the Oscilloscope assignment 8 project. It displays the final set up and results of connecting probes to CH1. 
 **PWM**
 imgur.com/a/5MZe7pv
-</br > In this video, PWM pulses are being emitted and captured on the oscilloscope. I was able to emit the PWM waves through creating a line of code on the microbit. 
+In this video, PWM pulses are being emitted and captured on the oscilloscope. I was able to emit the PWM waves through creating a line of code on the microbit. 
 ##**Loop**##
 imgur.com/a/LbV16Hv
 In this task, I used code to create a loop that varied the duty cycle between 5% and 95 % (In increments of 5%). Above is the link for the video of the oscilloscope I captured. 
@@ -17,11 +17,11 @@ In this task, I used code to create a loop that varied the duty cycle between 5%
 4. **How are the two types of protocol frames different?**
 4A.The difference between the two protocol systems is relatively complex, The I2C communication has much more demanding protocol to follow than the UART and SPI. I2C protocol revolves around a system of the SCL and SDA lines switching between each other going high and low. 
 **5. What is the most appropriate trigger for capturing an I2C frame on the oscilloscope?**
-5A.The most appropriate trigger for capturing an I2C frame on the oscilloscope is using "single" to capture a single frame on the readings. It is very easy to visualize the data when you can decipher between individual frames. </br >
+5A.The most appropriate trigger for capturing an I2C frame on the oscilloscope is using "single" to capture a single frame on the readings. It is very easy to visualize the data when you can decipher between individual frames. 
 
 
 **First Steps I2C**
-</br >
+
 imgur.com/a/Az18LqW
 **What does the I2C write function do when there is nothing connected?**
 A. When the I2C is not write function is running but there is nothing connected, nothing appears on the screen of the oscilloscope.
