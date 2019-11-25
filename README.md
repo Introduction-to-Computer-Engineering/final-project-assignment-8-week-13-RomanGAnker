@@ -55,13 +55,16 @@ A. Yes, there is; and it the difference is very apparent. It can be noticed in t
 
   A. In this video, I have the address 	0x1D (0x3A/0x3B) displayed on the oscilloscope while it is connected to the microbit. 
   
+  
 2. imgur.com/a/CW55egC
 
   B. In this video, I have the address 0x19 (0x32/0x33) displayed on the oscilloscope. This is the address where I noticed the largest 
   amount of change. 
   
+  
 3. imgur.com/a/yQPjZs6
 
   C. Finally, this video displays the address of 0x1E (0x3C/0x3D) displayed on the oscilloscope. 
+  
 
-                           ##In Progress of being formatted and updated##
+                   
