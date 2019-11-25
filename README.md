@@ -20,7 +20,7 @@ In this task, I used code to create a loop that varied the duty cycle between 5%
 
 **1. What are the disadvantages of the other two serial communication channels, UART and SPI, and how does I2C improve on them?**
 
-1A. I2C uses addresses and a shared bus, which means connecting other devices to the wires is much easier and faster. SPI lacks in the way that it is limited to the amount of master and slave devices and the number of pins it needs to function, whereas I2C can use multiple slaves and masters. UART is a basic communication system, it is weak in the sense that it is only suitable for communication between two devices, which means that additional communication devices may overwhelm it. 
+1A. I2C uses addresses and a shared bus, which means connecting other devices to the wires is much easier and faster. SPI lacks in the way that it is limited to the amount of master and slave devices and the larger number of pins it needs to function, whereas I2C can use multiple slaves and masters. UART is a basic communication system, it is weak in the sense that it is only suitable for communication between two devices, which means that additional communication devices may overwhelm it. 
 
 **2. I2C is a two-wire serial communication channel. What are the two wires, SDA and SCL?**
 
